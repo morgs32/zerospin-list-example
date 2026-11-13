@@ -1,0 +1,14 @@
+{
+  "name": "@zerospin/list-system-example",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "effect": "4.0.2",
+    "@zerospin/cli": "44.0.2",
+    "@zerospin/sdk": "44.0.2"
+  },
+  "scripts": {
+    "package:ios": "zerospin package --platform ios"
+  }
+}
